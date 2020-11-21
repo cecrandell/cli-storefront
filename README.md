@@ -23,9 +23,9 @@ This application is organized into the following files:
 
 * Upon installation, a folder named "node_modules" and a file called "package-lock.json" will appear, detailing which modules have been downloaded into the root folder.
 
-* *README.md* - this file contains all information about this application.
+* *README* - this file contains all information about this application.
 
-* *images folder* - stores the media files for this README.md file.
+* *images folder* - stores the media files for this README file.
 
 **Step-by-Step on how to run the application**
 
