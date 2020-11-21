@@ -23,9 +23,9 @@ This application is organized into the following files:
 
 * Upon installation, a folder named "node_modules" and a file called "package-lock.json" will appear, detailing which modules have been downloaded into the root folder.
 
-* *README* - this file contains all information about this application.
+* *README.md* - this file contains all information about this application.
 
-* *images folder* - stores the media files for this README file.
+* *images folder* - stores the media files for this README.md file.
 
 **Step-by-Step on how to run the application**
 
@@ -60,7 +60,7 @@ If there is enough stock to meet the user's needs, the order is placed and the u
 **Technologies Used** 
 
 * Node.js
-* Javascript
+* JavaScript
 * npm
 * package.json
 * inquirer
