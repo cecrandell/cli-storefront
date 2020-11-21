@@ -96,7 +96,7 @@ let connection = mysql.createConnection({
               }
             );
             connection.end();
-            console.log("You have now placed an order for " + answer.desired_quantity + " of " + results[productNum - 1].product_name + "(s)!");
+            console.log("You have now placed an order for " + answer.desired_quantity + " of the book " + results[productNum - 1].product_name + "!");
             console.log("This product costs $" + results[productNum - 1].price + " per unit, so your grand total came to $" + totalPrice.toFixed(2) + ".");
           }
         })
